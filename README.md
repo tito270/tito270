@@ -76,12 +76,13 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-<div align="center">
-![](https://github-readme-stats.vercel.app/api?username=walid429&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=walid429&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=walid429&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=walid429&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+  ![](https://nirzak-streak-stats.vercel.app/?user=walid429&theme=dark&hide_border=false)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=walid429&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
+
 ###
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=tito270&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
