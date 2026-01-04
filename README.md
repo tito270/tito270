@@ -88,6 +88,11 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tito270/tito270/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tito270/tito270/output/pacman-contribution-graph.svg">
 </picture>
+
+![](https://github-readme-stats.vercel.app/api?username=walid429&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=walid429&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=walid429&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <br clear="both">
 
 <div style="text-align: center;">
