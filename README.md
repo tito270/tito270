@@ -79,7 +79,7 @@
 
 <div align="center">
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tito270&theme=dark&hide_border=false" /> 
+  <img src="https://nirzak-streak-stats.vercel.app/?user=walid429&theme=dark&hide_border=false" /> 
 
 </div>
 
