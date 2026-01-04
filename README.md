@@ -89,11 +89,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tito270/tito270/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<br clear="both">
-
-
 
 ###
 
