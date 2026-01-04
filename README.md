@@ -79,7 +79,6 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=walid429&theme=dark&hide_border=false" />  <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=walid429&theme=dark&hide_border=false" />  <br/>
 
 </div>
