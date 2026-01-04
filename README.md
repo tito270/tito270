@@ -76,28 +76,22 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
-![](https://github-readme-stats.vercel.app/api?username=walid429&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=walid429&theme=dark&hide_border=false)<br/>
+<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=walid429&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=walid429&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=walid429&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+</div>
 ###
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=tito270&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tito270&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tito270/tito270/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tito270/tito270/output/pacman-contribution-graph.svg">
 </picture>
-
-![](https://github-readme-stats.vercel.app/api?username=walid429&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=walid429&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=walid429&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<br clear="both">
 
 <div style="text-align: center;">
   <img src="https://capsule-render.vercel.app/api?type=egg&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"
